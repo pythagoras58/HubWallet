@@ -10,4 +10,6 @@ public class HubWalletApplication {
         SpringApplication.run(HubWalletApplication.class, args);
     }
 
+
+
 }
